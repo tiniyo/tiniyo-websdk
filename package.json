@@ -1,0 +1,26 @@
+{
+  "name": "tiniyo-websdk",
+  "version": "1.0.0",
+  "description": "tiniyo websdk helps you to integrate voip call from your website. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiniyo/tiniyo-websdk.git"
+  },
+  "keywords": [
+    "webrtc",
+    "voip",
+    "voice",
+    "calls",
+    "tiniyo"
+  ],
+  "author": "neotux <support@tiniyo.com> (https://tiniyo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiniyo/tiniyo-websdk/issues"
+  },
+  "homepage": "https://github.com/tiniyo/tiniyo-websdk#readme"
+}
